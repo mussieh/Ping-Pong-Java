@@ -28,7 +28,7 @@ Java: http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-213
 
 
 
-## Authors
+## Author
 
-* **Mussie Habtemichael** - *Initial work* - [mussieh](https://github.com/mussieh)
+* **Mussie Habtemichael** - [mussieh](https://github.com/mussieh)
 
